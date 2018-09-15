@@ -16,9 +16,8 @@ It's also really easy to use, only username and login. That's it.
 ## Features
 
  - [x] Easy to use!
- - [x] Client's can be on Android, iOS or any other device that has a browser.
+ - [x] Client device can be an Android, iOS or any other device that has a browser (tested on Chrome and Safari).
  - [x] Multi-client Support!
-**For Devs:**
  - [x] Easy to host any Angular apps or any other websites!.
  - [x] JSON support (using [Google's gson](https://github.com/google/gson)).
 
